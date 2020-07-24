@@ -28,7 +28,7 @@ float averageVoltage = 0,tdsValue = 0,temperature = 25;
 
 long duration ;
 float distance;
-const int max_hight = 14;
+const int max_hight = 14;  // ganti jadi 10
 
 
 // Setting WiFi
